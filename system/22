@@ -1,0 +1,2 @@
+#whereis adduser
+/usr/sbin/adduser <new_user_name>
